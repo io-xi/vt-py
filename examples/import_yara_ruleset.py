@@ -19,7 +19,7 @@ directory. These imported YARA rules can be used in VT Hunting.
 
 Read more:
 https://www.virustotal.com/gui/hunting-overview
-https://developers.virustotal.com/v3.0/reference#livehunt
+https://docs.virustotal.com/reference/livehunt
 https://support.virustotal.com/hc/en-us/articles/360000363717-VT-Hunting
 """
 
